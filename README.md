@@ -1,4 +1,4 @@
 #QR Menü
 
-<h1>Bu proje js projesidir,bootstrap kullanılmıştır.</h1>
+<h1>Bu proje js projesidir kafelerde kullanılan qr menülere benzer bir web sitesi. Bootstrap kullanılmıştır.</h1>
 
